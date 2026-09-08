@@ -8,7 +8,7 @@ Keep your equipped gear, protect the whole hotbar, keep everything, or choose Va
 
 Current version: **0.1.2**. The owner functional smoke test, Achievement Friendly, and Vibrant Visuals checks passed. Multiplayer and BDS remain unverified.
 
-[Download Andy's Soulbound Inventory 0.1.2](Andys_Soulbound_Inventory_0.1.2.mcaddon)
+[Download Andy's Soulbound Inventory on CurseForge](https://www.curseforge.com/minecraft-bedrock/addons/andys-soulbound-inventory)
 
 <!-- SHA256 -->
 SHA-256: `614296612258a9896cbf0e3bc5e119d441d6e3141058da5cec1fa15a86b63d2d`
